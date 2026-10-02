@@ -1,0 +1,12 @@
+.admin-dashboard-page {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 80px 40px;
+}
+
+@media (max-width: 767.98px) {
+  .admin-dashboard-page {
+    padding: 50px 20px;
+  }
+}
